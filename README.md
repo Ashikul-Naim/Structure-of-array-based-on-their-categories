@@ -47,15 +47,5 @@ This repository compares the different types of array memory allocation strategi
   - **C++**: Requires manual memory management (e.g., `delete[]`).
   - **Python**: Managed automatically by Python's garbage collector.
 
----
 
-### Usage:
-- The code examples for each array allocation strategy are available in the repository as C++ and Python scripts.
-- The repository helps demonstrate the comparison between stack and heap memory allocation in both languages.
 
-"""
-
-# Save the README content to a file
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w") as f:
-    f.write(readme_content)
